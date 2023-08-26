@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **php flutter laravel**
 
-- 📫 How to reach me **mgmyint78502gmail.com**
+- 📫 How to reach me **mgmyint7850gmail.com**
 
 - ⚡ Fun fact **The code's behaving, no need to interfere.**
 
