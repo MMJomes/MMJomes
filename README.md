@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/mgmyint_krrish" target="blank"><img src="https://img.shields.io/twitter/follow/mgmyint_krrish?logo=twitter&style=for-the-badge" alt="mgmyint_krrish" /></a> </p>
 
-- 🔭 I’m currently working on [Orange](https://www.orange.com/)
+- 🔭 I’m currently working on [Orange Solution](https://www.orange-thailand.com/)
 
 - 💬 Ask me about **php flutter laravel**
 
