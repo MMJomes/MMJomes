@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/MMJomes/MMJomes/blob/main/card.jpg" alt="header" />
+<img src="https://github.com/MMJomes/MMJomes/blob/main/card.jpg" alt="header" style="height 50%" />
 </div>
 
 <div align="center">
