@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:00C9A7&height=220&section=header&text=Maung%20Myint&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=⚡%20Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile%20Engineer&descAlignY=58&descColor=e0e0ff&descSize=18" alt="header" />
-![logo](https://github.com/MMJomes/MMJomes/blob/main/card.jpg)
+<img src="https://github.com/MMJomes/MMJomes/blob/main/card.jpg" alt="header" />
 </div>
 
 <div align="center">
